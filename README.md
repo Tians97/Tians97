@@ -1,16 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Tianshu Xiao!
 
-<!--
-**Tians97/Tians97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer👨🏼‍💻 with a background in Data Science. I have experience with JavaScript, React/Redux, Node.js, Python, Ruby, Rails, SQL, PostgreSQL, MongoDB, Git, Docker, AWS, HTML5, CSS3, and Heroku.
 
-Here are some ideas to get you started:
+When I'm not programming, I am passionate about swimming, tennis, and basketball.
 
-- 🔭 I’m currently working on my MERN stack project
-- 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Project
+
