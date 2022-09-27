@@ -5,7 +5,7 @@ I'm a Software Engineer👨🏼‍💻 with a background in Data Science. I have
 When I'm not programming, I am passionate about swimming, tennis, and basketball.
 
 
-### Project
+### Projects
 
 ### [WePost](https://medium-wepost.herokuapp.com/)
 A full-stack, single-page web application clone by Medium where users can create and review posts
