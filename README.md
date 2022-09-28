@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Tianshu Xiao!
 
-
 I'm a Software Engineer👨🏼‍💻 with a background in Data Science and Civil Engineering. I have experience with JavaScript, React/Redux, Node.js, Python, Ruby, Rails, SQL, PostgreSQL, MongoDB, Git, Docker, AWS, HTML5, CSS3, and Heroku.
 
 When I'm not programming, I am passionate about swimming, tennis, and basketball.
@@ -23,6 +22,8 @@ A single-page Interactive website of NBA information using Vanilla JavaScript
 ## Github Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tians97&show_icons=true&locale=en&layout=compact" alt="tians97" /></p>
+
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tians97&show_icons=true&locale=en" alt="tians97" /></p>
 
