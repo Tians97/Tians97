@@ -4,7 +4,6 @@ I'm a Software Engineer👨🏼‍💻 with a background in Data Science and Civ
 
 When I'm not programming, I am passionate about swimming, tennis, and basketball.
 
-<br/>
 
 ## Projects
 
